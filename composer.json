@@ -1,0 +1,17 @@
+{
+    "name": "rpf/horeka-core",
+    "description": "Online Delivery Restaurant",
+    "type": "project",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Roweb",
+            "email": "dan.chirita@roweb.ro"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"HorekaCore\\": "./inc"}
+    }
+}
